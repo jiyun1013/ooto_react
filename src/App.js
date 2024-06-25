@@ -16,6 +16,7 @@ function App() {
           rel="noopener noreferrer"
         >
           리액트
+          수정했을 때 어떻게 되는지 궁금해!
         </a>
       </header>
     </div>
